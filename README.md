@@ -1,3 +1,2 @@
 # Calculator
-This is the Simple Calculator for Windows Platform
-By: Apoorv Tyagi
+ Simple Calculator GUI for Windows Platform
